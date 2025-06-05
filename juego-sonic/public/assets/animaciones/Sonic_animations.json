@@ -1,0 +1,466 @@
+{
+    "anims": [
+        {
+            "key": "idlesonic",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sonic",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "start-runningsonic",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sonic",
+                    "frame": 57,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 58,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 59,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 60,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 61,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 62,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 63,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 64,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 65,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 66,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 67,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 68,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 69,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 70,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 71,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 72,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 73,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 74,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 75,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 76,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 77,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 78,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 79,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 80,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 81,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 82,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 83,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 84,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 85,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 86,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 87,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 88,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 89,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 90,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 91,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 92,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 93,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 94,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 95,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 96,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "runningsonic",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sonic",
+                    "frame": 89,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 90,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 91,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 92,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 93,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 94,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 95,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 96,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "jumpsonic",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sonic",
+                    "frame": 160,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 161,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 162,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 163,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 164,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 165,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "rollsonic",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sonic",
+                    "frame": 267,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 268,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 269,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 270,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 271,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 272,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sonic",
+                    "frame": 273,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

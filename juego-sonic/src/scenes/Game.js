@@ -17,6 +17,8 @@ export class Game extends Scene {
         this.load.spritesheet('tiles-fabrica-2', 'assets/tiles/Cyber_Track_Act_2_Tile_Sheet.png', { frameWidth: 48, frameHeight: 48 });
         this.load.spritesheet('tiles-Andamios-1', 'assets/tiles/Route_99_Act_1_Tile_Sheet.png', { frameWidth: 48, frameHeight: 48 });
         this.load.spritesheet('tiles-Andamios-2', 'assets/tiles/Route_99_Act_2_Tile_Sheet.png', { frameWidth: 48, frameHeight: 48 });
+        this.load.spritesheet('tiles-Templo-Fabrica-1', 'assets/tiles/Chaos_Angel_Act_1_Tile_Sheet.png', { frameWidth: 48, frameHeight: 48 });        
+        this.load.spritesheet('tiles-Templo-Fabrica-2', 'assets/tiles/Chaos_Angel_Act_2_Tile_Sheet.png', { frameWidth: 48, frameHeight: 48 });
     }
 
     create ()
@@ -30,14 +32,16 @@ export class Game extends Scene {
         const tileset3 = map.addTilesetImage('Cyber_Track_Act_2_Tile_Sheet', 'tiles-fabrica-2');
         const tileset4 = map.addTilesetImage('Route_99_Act_1_Tile_Sheet', 'tiles-Andamios-1');
         const tileset5 = map.addTilesetImage('Route_99_Act_2_Tile_Sheet', 'tiles-Andamios-2');
+        const tileset6 = map.addTilesetImage('Chaos_Angel_Act_1_Tile_Sheet', 'tiles-Templo-Fabrica-1');
+        const tileset7 = map.addTilesetImage('Chaos_Angel_Act_2_Tile_Sheet', 'tiles-Templo-Fabrica-2');
         const alturaMapa = -358;
 
 
         // ======== MAPEADO ========
-        this.Frente = map.createLayer('Frente', [tileset, tileset2, tileset3, tileset4, tileset5], 0, alturaMapa).setDepth(1);
-        this.Terreno = map.createLayer('Terreno', [tileset, tileset2, tileset3, tileset4, tileset5], 0, alturaMapa);
-        this.Fondo = map.createLayer('Fondo', [tileset, tileset2, tileset3, tileset4, tileset5], 0, alturaMapa).setDepth(-1);
-        this.fondoLejano = map.createLayer('Fondo_Lejano', [tileset, tileset2, tileset3, tileset4, tileset5], 0, alturaMapa).setDepth(-2);
+        this.Frente = map.createLayer('Frente', [tileset, tileset2, tileset3, tileset4, tileset5, tileset6, tileset7], 0, alturaMapa).setDepth(1);
+        this.Terreno = map.createLayer('Terreno', [tileset, tileset2, tileset3, tileset4, tileset5, tileset6, tileset7], 0, alturaMapa);
+        this.Fondo = map.createLayer('Fondo', [tileset, tileset2, tileset3, tileset4, tileset5, tileset6, tileset7], 0, alturaMapa).setDepth(-1);
+        this.fondoLejano = map.createLayer('Fondo_Lejano', [tileset, tileset2, tileset3, tileset4, tileset5, tileset6, tileset7], 0, alturaMapa).setDepth(-2);
 
         //======= PLAYER ========
 

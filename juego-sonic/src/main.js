@@ -3,6 +3,7 @@ import { Boot } from './scenes/Boot';
 import { Game } from './scenes/Game';
 import { GameOver } from './scenes/GameOver';
 import { MainMenu } from './scenes/MainMenu';
+import { Win } from './scenes/Win';
 // import { Preloader } from './scenes/Preloader';
 
 //  Find out more information about the Game Config at:
@@ -24,7 +25,7 @@ const config = {
     physics: {
         default: 'arcade',
         arcade: {
-            debug: false,
+            debug: true,
             gravity: {
                 y: 600,
             }
@@ -34,7 +35,8 @@ const config = {
         Boot,
         MainMenu,
         Game,
-        GameOver
+        GameOver,
+        Win
     ]
 };
 
